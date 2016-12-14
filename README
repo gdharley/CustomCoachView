@@ -1,0 +1,11 @@
+npm install
+npm run start
+
+THEN open package.json and update
+--host 10.0.1.8
+to reflect your IP
+
+AND update the
+1. IP address in the client side script of 'Sample Coach' CSHS
+1. IP address in the Custom HTML above the template in the Coach
+
